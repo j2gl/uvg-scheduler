@@ -1,0 +1,27 @@
+Proyecto de Compiladores 1
+Prof. Carlos Marroquin
+
+Juan Jose Garcia Lau
+Carne 97172
+
+Para correr escribir
+./sim <nombre del archivo>
+
+sino se ingreso el nombre del archivo,
+luego pide el nombre del archivo en pantalla
+
+Formato del archvio de entrada
+
+Q 1              (Q <numero> Tamano del Quantum)
+S F              (S F o S tipo de Scheduler F = FCFS y R = RR)
+T 500            (T <numero> Tiempo total en que pueden entrar programas)
+
+P Compilador     (P <Nombre del Proceso>)
+l 25             (l <numero> landa, frecuencia con que entra el programa como proceso)
+t 100            (t <numero> tiempo, tiempo total que puede correr el proceso)
+
+c 100            (c <numero> tiempo de cpu)
+i 1              (i <numero> tiempo de IO)
+r 1              (r <numero> numero de veces que se ejecuta el proceso)
+
+test, test2, fcfs y rr son ejemplos de archivos de entrada.

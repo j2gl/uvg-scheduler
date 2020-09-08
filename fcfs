@@ -1,0 +1,19 @@
+Q 1
+S F
+T 500
+
+P Compilador
+l 25 
+t 100
+
+c 100
+i 1
+r 1
+
+P Editor
+l 25
+t 100
+
+c 1
+i 100
+r 1

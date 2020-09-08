@@ -1,0 +1,23 @@
+Q 100
+S F
+T 10001
+
+P Calculadora
+l 1000
+t 5000
+
+c 100
+i 100
+r 5
+
+c 900
+i 100
+r 5
+
+P ProfesionalWrite
+l 5000
+t 4000
+
+c 100
+i 1000
+r 10
